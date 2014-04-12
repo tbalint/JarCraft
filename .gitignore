@@ -1,0 +1,10 @@
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+/bin
+client-bridge-x86.dll
+src/javabot/JNIBWAPI.java
+src/javabot/JNIBWAPI.java

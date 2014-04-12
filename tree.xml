@@ -1,0 +1,65 @@
+<node label=ROOT score=-29.131578 visited=38 type=ROOT playerToMove=0 moves=>
+	<node label=NOK-AV score=-28.105263 visited=19 type=FIRST playerToMove=0 moves=ATTACK;>
+		<node label=NOK-AV score=-27.5 visited=18 type=SECOND playerToMove=1 moves=ATTACK;>
+			<node label=NOK-AV score=-26.82353 visited=17 type=FIRST playerToMove=1 moves=ATTACK;ATTACK;>
+				<node label=NOK-AV score=-43.125 visited=8 type=SECOND playerToMove=0 moves=ATTACK;>
+					<node label=NOK-AV score=-39.0 visited=4 type=FIRST playerToMove=0 moves=ATTACK;>
+						<node label=NOK-AV score=-39.0 visited=3 type=SECOND playerToMove=1 moves=ATTACK;ATTACK;>
+							<node label=NOK-AV score=-39.0 visited=2 type=SOLO playerToMove=1 moves=ATTACK;>
+								<node label=NOK-AV score=-39.0 visited=1 type=FIRST playerToMove=1 moves=ATTACK;/>
+							</node>
+						</node>
+					</node>
+					<node label=KITE score=-50.0 visited=3 type=FIRST playerToMove=0 moves=KITE;>
+						<node label=NOK-AV score=-50.0 visited=2 type=SECOND playerToMove=1 moves=ATTACK;ATTACK;>
+							<node label=NOK-AV score=-50.0 visited=1 type=FIRST playerToMove=1 moves=ATTACK;/>
+						</node>
+					</node>
+				</node>
+				<node label=KITE score=-9.0 visited=8 type=SECOND playerToMove=0 moves=KITE;>
+					<node label=NOK-AV score=-89.0 visited=2 type=FIRST playerToMove=0 moves=ATTACK;>
+						<node label=NOK-AV score=-89.0 visited=1 type=SECOND playerToMove=1 moves=ATTACK;ATTACK;/>
+					</node>
+					<node label=KITE score=39.0 visited=5 type=FIRST playerToMove=0 moves=KITE;>
+						<node label=NOK-AV score=39.0 visited=4 type=SECOND playerToMove=1 moves=ATTACK;ATTACK;>
+							<node label=NOK-AV score=39.0 visited=2 type=SOLO playerToMove=0 moves=ATTACK;>
+								<node label=NOK-AV score=39.0 visited=1 type=FIRST playerToMove=0 moves=ATTACK;/>
+							</node>
+							<node label=KITE score=39.0 visited=1 type=SOLO playerToMove=0 moves=KITE;/>
+						</node>
+					</node>
+				</node>
+			</node>
+		</node>
+	</node>
+	<node label=KITE score=-31.833334 visited=18 type=FIRST playerToMove=0 moves=KITE;>
+		<node label=NOK-AV score=-31.411764 visited=17 type=SECOND playerToMove=1 moves=ATTACK;>
+			<node label=NOK-AV score=-30.9375 visited=16 type=FIRST playerToMove=1 moves=ATTACK;ATTACK;>
+				<node label=NOK-AV score=-43.125 visited=8 type=SECOND playerToMove=0 moves=ATTACK;>
+					<node label=NOK-AV score=-39.0 visited=4 type=FIRST playerToMove=0 moves=ATTACK;>
+						<node label=NOK-AV score=-39.0 visited=3 type=SECOND playerToMove=1 moves=ATTACK;ATTACK;>
+							<node label=NOK-AV score=-39.0 visited=1 type=SOLO playerToMove=0 moves=ATTACK;/>
+							<node label=KITE score=-39.0 visited=1 type=SOLO playerToMove=0 moves=KITE;/>
+						</node>
+					</node>
+					<node label=KITE score=-50.0 visited=3 type=FIRST playerToMove=0 moves=KITE;>
+						<node label=NOK-AV score=-50.0 visited=2 type=SECOND playerToMove=1 moves=ATTACK;ATTACK;>
+							<node label=NOK-AV score=-50.0 visited=1 type=SOLO playerToMove=0 moves=ATTACK;/>
+						</node>
+					</node>
+				</node>
+				<node label=KITE score=-15.857142 visited=7 type=SECOND playerToMove=0 moves=KITE;>
+					<node label=NOK-AV score=-89.0 visited=2 type=FIRST playerToMove=0 moves=ATTACK;>
+						<node label=NOK-AV score=-89.0 visited=1 type=SECOND playerToMove=1 moves=ATTACK;ATTACK;/>
+					</node>
+					<node label=KITE score=39.0 visited=4 type=FIRST playerToMove=0 moves=KITE;>
+						<node label=NOK-AV score=39.0 visited=3 type=SECOND playerToMove=1 moves=ATTACK;ATTACK;>
+							<node label=NOK-AV score=39.0 visited=1 type=SOLO playerToMove=0 moves=ATTACK;/>
+							<node label=KITE score=39.0 visited=1 type=SOLO playerToMove=0 moves=KITE;/>
+						</node>
+					</node>
+				</node>
+			</node>
+		</node>
+	</node>
+</node>
